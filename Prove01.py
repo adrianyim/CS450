@@ -35,6 +35,8 @@ targets_predicted = model.predict(data_test)
 
 # Caluating the accuracy from the sklearn
 targetPred = classifier.predict(data_test)
+
+print('Sklearn:')
 print(round(accuracy_score(target_test, targetPred) * 100, 1), '%')
 
 # A classifier
@@ -47,4 +49,6 @@ score = 0
 for i in range(len(targets_predicted)):
     if targets_predicted[i] == target_test[i]:
         score += 1
+
+print('Custom:')
 print(round(score / len(targets_predicted) * 100, 1), '%')
