@@ -22,7 +22,7 @@ def quantifyData(data):
                 it += 1
             data[x][y] = stringMap[value]
 
-data = np.array(pd.read_csv("census-data.txt", sep=" ", header=None))
+data = np.array(pd.read_csv("car.csv", sep=" ", header=None))
 
 target = data[:,-1]
 data = data[:,0:-1]
