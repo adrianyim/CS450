@@ -15,9 +15,10 @@ def getIrisTree():
     skTree = tree.DecisionTreeClassifier()
     skTree = skTree.fit(data_train, target_train)
 
-    dot_data = tree.export_graphviz(skTree, out_file = None)
+    dot_data = tree.export_graphviz(skTree, out_file = None, feature_names=iris.feature_names, class_names=iris.target_names, filled=True, rounded=True, special_characters=True)
     graph = graphviz.Source(dot_data)
     graph.render("iris")
+    print(graph)
 
 def handleNonNum(data):
     stringMap = {}
