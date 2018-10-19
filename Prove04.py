@@ -6,6 +6,7 @@ from random import randint as rand
 from sklearn import tree
 import graphviz
 
+# Iris Decision Tree function
 def getIrisTree():
     iris = load_iris()
 
@@ -19,6 +20,14 @@ def getIrisTree():
     graph = graphviz.Source(dot_data)
     graph.render("iris")
     print(graph)
+
+# Lenses Decision Tree function
+def getLensesTree():
+    lenses = np.array(pd.read_csv("lenses.csv", header=None))
+    data = lenses[:,0:-1]
+    target = lenses[:,-1]
+    print(lenses)
+
 
 def handleNonNum(data):
     stringMap = {}
@@ -36,4 +45,5 @@ def handleMissingData(data):
            while data[x][y] == "?" or data[x][y] == "NA":
                data[x][y] = data[rand(0, len(data) - 1)][y]
 
-getIrisTree()
+#getIrisTree()
+getLensesTree()
