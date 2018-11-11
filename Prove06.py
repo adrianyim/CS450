@@ -122,12 +122,12 @@ if __name__ == "__main__":
 
     # Train the neural network using the training set.
     # Do it 60,000 times and make small adjustments each time.
-    # neural_network.train(training_set_inputs, training_set_outputs, 60000)
+    neural_network.train(training_set_inputs, training_set_outputs, 60000)
 
-    # print("New synaptic weights after training: ")
-    # neural_network.print_weights()
+    print("New synaptic weights after training: ")
+    neural_network.print_weights()
 
-    # # Test the neural network with a new situation.
+    # Test the neural network with a new situation.
     # print("A new situation [1, 1, 0] -> ?: ")
     # hidden_state, output = neural_network.think(array([1, 1, 0]))
     # print(output)
