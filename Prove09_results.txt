@@ -1,0 +1,251 @@
+      data ntransactions support confidence
+ Groceries          9835   0.006        0.2
+ 
+    support           confidence          lift            count        
+ Min.   :0.006101   Min.   :0.2006   Min.   :0.8991   Min.   :  60.00  
+ 1st Qu.:0.007092   1st Qu.:0.2538   1st Qu.:1.5136   1st Qu.:  69.75  
+ Median :0.008795   Median :0.3153   Median :1.8708   Median :  86.50  
+ Mean   :0.012377   Mean   :0.3429   Mean   :1.9473   Mean   : 121.73  
+ 3rd Qu.:0.012913   3rd Qu.:0.4175   3rd Qu.:2.2879   3rd Qu.: 127.00  
+ Max.   :0.255516   Max.   :0.6600   Max.   :3.9565   Max.   :2513.00  
+
+      data ntransactions support confidence
+ Groceries          9835    0.06        0.2
+
+    support          confidence          lift           count     
+ Min.   :0.07483   Min.   :0.2555   Min.   :1.000   Min.   : 736  
+ 1st Qu.:0.07483   1st Qu.:0.2742   1st Qu.:1.257   1st Qu.: 736  
+ Median :0.07483   Median :0.2929   Median :1.514   Median : 736  
+ Mean   :0.13506   Mean   :0.3117   Mean   :1.342   Mean   :1328  
+ 3rd Qu.:0.16518   3rd Qu.:0.3398   3rd Qu.:1.514   3rd Qu.:1624  
+ Max.   :0.25552   Max.   :0.3868   Max.   :1.514   Max.   :2513  
+
+      data ntransactions support confidence
+ Groceries          9835    0.08       0.02
+
+    support          confidence           lift       count     
+ Min.   :0.08053   Min.   :0.08053   Min.   :1   Min.   : 792  
+ 1st Qu.:0.09395   1st Qu.:0.09395   1st Qu.:1   1st Qu.: 924  
+ Median :0.10900   Median :0.10900   Median :1   Median :1072  
+ Mean   :0.13200   Mean   :0.13200   Mean   :1   Mean   :1298  
+ 3rd Qu.:0.17438   3rd Qu.:0.17438   3rd Qu.:1   3rd Qu.:1715  
+ Max.   :0.25552   Max.   :0.25552   Max.   :1   Max.   :2513  
+
+      data ntransactions support confidence
+ Groceries          9835   0.008       0.06
+
+    support           confidence           lift            count       
+ Min.   :0.008033   Min.   :0.06122   Min.   :0.4457   Min.   :  79.0  
+ 1st Qu.:0.009253   1st Qu.:0.11985   1st Qu.:1.3315   1st Qu.:  91.0  
+ Median :0.011388   Median :0.18723   Median :1.6203   Median : 112.0  
+ Mean   :0.016706   Mean   :0.22310   Mean   :1.7042   Mean   : 164.3  
+ 3rd Qu.:0.017082   3rd Qu.:0.30410   3rd Qu.:1.9832   3rd Qu.: 168.0  
+ Max.   :0.255516   Max.   :0.63889   Max.   :3.7969   Max.   :2513.0  
+
+      data ntransactions support confidence
+ Groceries          9835    0.17      0.025
+
+    support         confidence          lift       count     
+ Min.   :0.1744   Min.   :0.1744   Min.   :1   Min.   :1715  
+ 1st Qu.:0.1815   1st Qu.:0.1815   1st Qu.:1   1st Qu.:1786  
+ Median :0.1887   Median :0.1887   Median :1   Median :1856  
+ Mean   :0.2018   Mean   :0.2018   Mean   :1   Mean   :1985  
+ 3rd Qu.:0.2090   3rd Qu.:0.2090   3rd Qu.:1   3rd Qu.:2056  
+ Max.   :0.2555   Max.   :0.2555   Max.   :1   Max.   :2513  
+
+      data ntransactions support confidence
+ Groceries          9835  0.0017        0.8
+
+    support           confidence          lift            count      
+ Min.   :0.001729   Min.   :0.8000   Min.   : 3.131   Min.   :17.00  
+ 1st Qu.:0.001729   1st Qu.:0.8095   1st Qu.: 3.202   1st Qu.:17.00  
+ Median :0.001830   Median :0.8261   Median : 3.414   Median :18.00  
+ Mean   :0.001980   Mean   :0.8429   Mean   : 3.898   Mean   :19.47  
+ 3rd Qu.:0.002034   3rd Qu.:0.8500   3rd Qu.: 4.269   3rd Qu.:20.00  
+ Max.   :0.003152   Max.   :1.0000   Max.   :11.235   Max.   :31.00  
+
+      data ntransactions support confidence
+ Groceries          9835   0.002        0.8
+
+summary of quality measures:
+    support           confidence          lift           count      
+ Min.   :0.002034   Min.   :0.8000   Min.   :3.131   Min.   :20.00  
+ 1st Qu.:0.002135   1st Qu.:0.8032   1st Qu.:3.202   1st Qu.:21.00  
+ Median :0.002339   Median :0.8214   Median :3.223   Median :23.00  
+ Mean   :0.002385   Mean   :0.8230   Mean   :3.504   Mean   :23.45  
+ 3rd Qu.:0.002491   3rd Qu.:0.8284   3rd Qu.:3.723   3rd Qu.:24.50  
+ Max.   :0.003152   Max.   :0.8857   Max.   :4.578   Max.   :31.00  
+
+      data ntransactions support confidence
+ Groceries          9835   0.002       0.08
+
+    support           confidence          lift             count        
+ Min.   :0.002034   Min.   :0.0800   Min.   : 0.4457   Min.   :  20.00  
+ 1st Qu.:0.002339   1st Qu.:0.1401   1st Qu.: 1.6672   1st Qu.:  23.00  
+ Median :0.002949   Median :0.2235   Median : 2.1363   Median :  29.00  
+ Mean   :0.004351   Mean   :0.2692   Mean   : 2.2625   Mean   :  42.79  
+ 3rd Qu.:0.004270   3rd Qu.:0.3659   3rd Qu.: 2.7045   3rd Qu.:  42.00  
+ Max.   :0.255516   Max.   :0.8857   Max.   :11.4214   Max.   :2513.00  
+
+      data ntransactions support confidence
+ Groceries          9835   0.006       0.08
+
+    support           confidence           lift            count       
+ Min.   :0.006101   Min.   :0.08015   Min.   :0.4457   Min.   :  60.0  
+ 1st Qu.:0.007016   1st Qu.:0.12790   1st Qu.:1.4177   1st Qu.:  69.0  
+ Median :0.008744   Median :0.19571   Median :1.7341   Median :  86.0  
+ Mean   :0.012693   Mean   :0.23602   Mean   :1.8063   Mean   : 124.8  
+ 3rd Qu.:0.012506   3rd Qu.:0.31304   3rd Qu.:2.1383   3rd Qu.: 123.0  
+ Max.   :0.255516   Max.   :0.66000   Max.   :3.9565   Max.   :2513.0  
+
+      data ntransactions support confidence
+ Groceries          9835    0.06       0.08
+
+    support          confidence           lift           count       
+ Min.   :0.07483   Min.   :0.08053   Min.   :1.000   Min.   : 736.0  
+ 1st Qu.:0.08587   1st Qu.:0.09624   1st Qu.:1.000   1st Qu.: 844.5  
+ Median :0.10493   Median :0.11052   Median :1.000   Median :1032.0  
+ Mean   :0.12438   Mean   :0.15971   Mean   :1.068   Mean   :1223.3  
+ 3rd Qu.:0.15694   3rd Qu.:0.18871   3rd Qu.:1.000   3rd Qu.:1543.5  
+ Max.   :0.25552   Max.   :0.38676   Max.   :1.514   Max.   :2513.0  
+
+      data ntransactions support confidence
+ Groceries          9835  0.0017      0.008
+
+    support           confidence            lift             count        
+ Min.   :0.001729   Min.   :0.008032   Min.   : 0.3287   Min.   :  17.00  
+ 1st Qu.:0.001932   1st Qu.:0.103550   1st Qu.: 1.6151   1st Qu.:  19.00  
+ Median :0.002440   Median :0.189394   Median : 2.1045   Median :  24.00  
+ Mean   :0.003774   Mean   :0.236410   Mean   : 2.2656   Mean   :  37.11  
+ 3rd Qu.:0.003660   3rd Qu.:0.333333   3rd Qu.: 2.7324   3rd Qu.:  36.00  
+ Max.   :0.255516   Max.   :1.000000   Max.   :35.7158   Max.   :2513.00  
+
+      data ntransactions support confidence
+ Groceries          9835   0.024      0.008
+
+    support          confidence           lift            count       
+ Min.   :0.02420   Min.   :0.02450   Min.   :0.8991   Min.   : 238.0  
+ 1st Qu.:0.02735   1st Qu.:0.05887   1st Qu.:1.0000   1st Qu.: 269.0  
+ Median :0.03284   Median :0.13715   Median :1.1961   Median : 323.0  
+ Mean   :0.04558   Mean   :0.17000   Mean   :1.3021   Mean   : 448.3  
+ 3rd Qu.:0.04908   3rd Qu.:0.23892   3rd Qu.:1.5570   3rd Qu.: 482.8  
+ Max.   :0.25552   Max.   :0.49725   Max.   :2.2466   Max.   :2513.0  
+
+      data ntransactions support confidence
+ Groceries          9835  0.0024      0.008
+
+    support           confidence            lift             count
+ Min.   :0.002440   Min.   :0.008032   Min.   : 0.3742   Min.   :  24.00  
+ 1st Qu.:0.002847   1st Qu.:0.099071   1st Qu.: 1.5165   1st Qu.:  28.00  
+ Median :0.003559   Median :0.177034   Median : 1.9568   Median :  35.00  
+ Mean   :0.005319   Mean   :0.223958   Mean   : 2.0716   Mean   :  52.31 
+ 3rd Qu.:0.005186   3rd Qu.:0.317073   3rd Qu.: 2.4814   3rd Qu.:  51.00 
+ Max.   :0.255516   Max.   :0.885714   Max.   :11.4214   Max.   :2513.00
+
+      data ntransactions support confidence
+ Groceries          9835  0.0022      0.008
+
+    support           confidence            lift             count     
+ Min.   :0.002237   Min.   :0.008032   Min.   : 0.3742   Min.   :  22.00  
+ 1st Qu.:0.002542   1st Qu.:0.100372   1st Qu.: 1.5385  1st Qu.:  25.00 
+ Median :0.003254   Median :0.180000   Median : 1.9905   Median :  32.00 
+ Mean   :0.004892   Mean   :0.227406   Mean   : 2.1102   Mean   :  48.11 
+ 3rd Qu.:0.004881   3rd Qu.:0.321168   3rd Qu.: 2.5313   3rd Qu.:  48.00 
+ Max.   :0.255516   Max.   :0.885714   Max.   :11.4214   Max.   :2513.00 
+
+      data ntransactions support confidence
+ Groceries          9835    0.18       0.06
+
+    support         confidence          lift       count     
+ Min.   :0.1839   Min.   :0.1839   Min.   :1   Min.   :1809  
+ 1st Qu.:0.1887   1st Qu.:0.1887   1st Qu.:1   1st Qu.:1856  
+ Median :0.1935   Median :0.1935   Median :1   Median :1903  
+ Mean   :0.2110   Mean   :0.2110   Mean   :1   Mean   :2075  
+ 3rd Qu.:0.2245   3rd Qu.:0.2245   3rd Qu.:1   3rd Qu.:2208  
+ Max.   :0.2555   Max.   :0.2555   Max.   :1   Max.   :2513  
+
+      data ntransactions support confidence
+ Groceries          9835    0.19       0.06
+
+    support         confidence          lift       count     
+ Min.   :0.1935   Min.   :0.1935   Min.   :1   Min.   :1903  
+ 1st Qu.:0.2090   1st Qu.:0.2090   1st Qu.:1   1st Qu.:2056  
+ Median :0.2245   Median :0.2245   Median :1   Median :2208  
+ Mean   :0.2245   Mean   :0.2245   Mean   :1   Mean   :2208  
+ 3rd Qu.:0.2400   3rd Qu.:0.2400   3rd Qu.:1   3rd Qu.:2360  
+ Max.   :0.2555   Max.   :0.2555   Max.   :1   Max.   :2513  
+
+      data ntransactions support confidence
+ Groceries          9835   0.019      0.065
+
+    support          confidence           lift            count       
+ Min.   :0.01922   Min.   :0.07168   Min.   :0.8991   Min.   : 189.0  
+ 1st Qu.:0.02125   1st Qu.:0.11898   1st Qu.:1.2050   1st Qu.: 209.0  
+ Median :0.02598   Median :0.19839   Median :1.4869   Median : 255.5  
+ Mean   :0.03770   Mean   :0.22102   Mean   :1.5078   Mean   : 370.8  
+ 3rd Qu.:0.03437   3rd Qu.:0.30014   3rd Qu.:1.7716   3rd Qu.: 338.0  
+ Max.   :0.25552   Max.   :0.51288   Max.   :2.8421   Max.   :2513.0  
+
+      data ntransactions support confidence
+ Groceries          9835    0.18       0.07
+
+    support         confidence          lift       count     
+ Min.   :0.1839   Min.   :0.1839   Min.   :1   Min.   :1809  
+ 1st Qu.:0.1887   1st Qu.:0.1887   1st Qu.:1   1st Qu.:1856  
+ Median :0.1935   Median :0.1935   Median :1   Median :1903  
+ Mean   :0.2110   Mean   :0.2110   Mean   :1   Mean   :2075  
+ 3rd Qu.:0.2245   3rd Qu.:0.2245   3rd Qu.:1   3rd Qu.:2208  
+ Max.   :0.2555   Max.   :0.2555   Max.   :1   Max.   :2513  
+
+
+
+ When your assignment is complete, please answer the questions in this text file and upload it to I-Learn.
+
+
+1. Please list the 5 rules you found with the highest support.
+support confidence
+0.08    0.02    > 0.25552
+0.0017  0.008   > 0.255516
+0.19    0.06    > 0.2400
+0.18    0.06    > 0.2245
+0.18    0.07    > 0.2110
+
+2. Please list the 5 rules you found with the highest confidence.
+support confidence
+0.0017  0.008   > 1
+0.0022  0.008   > 0.885714
+0.006   0.08    > 0.66
+0.008   0.06    > 0.63889
+0.019   0.065   > 0.51288
+
+3. Please list the 5 rules you found with the highest lift.
+support confidence
+0.0017  0.008   > 35.7158
+0.002   0.08    > 11.4214
+0.0017  0.8     > 11.235
+0.002   0.8     > 4.578
+0.006   0.08    > 3.9565
+
+4. Please list the 5 rules you found that you think are the most interesting.
+support confidence
+0.0017  0.008   > 35.7158   (lift)
+0.0017  0.008   > 1         (confidence)
+0.08    0.02    > 0.25552   (support)
+0.0017  0.008   > 0.255516  (support)
+0.001   0.08    > 0.255516  (support)
+                > 1         (confidence)
+                > 35.7158   (lift)
+
+5. Please describe anything else you did for this assignment.
+Just changing the parameter of support and confidence.
+
+
+6. Please select the category you feel best describes your assignment:
+A - Some attempt was made
+B - Developing, but significantly deficient
+C - Slightly deficient, but still mostly adequate
+D - Meets requirements
+E - Shows creativity and excels above and beyond requirements
+
+
+7. Provide a brief justification (1-2 sentences) for selecting that category.
